@@ -1,0 +1,30 @@
+.dt{background: #fff;  height: 100px; padding-top: 10px;padding-left: 20px;
+	overflow: hidden;}
+	.auto{margin: auto;}
+	.dt-kia{padding-top: 10px;overflow: hidden;}
+	.dt-to{padding-top: -80px;}
+	.spkm{width: 200px;height: 40px; font-size: 24px; border-top-left-radius:15px;border:1px solid #DF0101;
+		text-align:center; border-bottom-right-radius:15px;padding-top: 5px;
+		;color:#FFF; background:#DF0101 ;box-shadow:4px 3px 2px #000; margin-top: 10px;}
+
+
+#ket{ width:980px; height:180px; background:#000;margin:auto; padding-top:-10px}
+#contact{width:748px; height: 422px; margin: auto;padding-top: 20px; }
+#contact button{width: 100px; height: 30px; background: black; color:#DDD;border: 1px solid #DDD; margin-top: 30px}
+#thongtin{width: 400px; float: left;padding-top: 10px; line-height: 40px;padding-left: 20px}
+#thongtin input{width: 300px; height: 30px;margin-top: 15px}
+#thongtin textarea{width: 300px; height: 50px;margin-top: 15px}
+#noidung{width: 348px; float: left;padding-top: 20px}
+#noidung textarea{width: 348px; height: 200px; margin-top: 20px}
+
+#q1{width: 350px;height: 700px;float: left;}
+#q2{width: 315px; float: left;padding-right: 50px}
+#q3{width: 315px;float: left;}
+
+
+h2{
+  text-align:center;
+  padding: 20px;
+}
+/* Slider */
+

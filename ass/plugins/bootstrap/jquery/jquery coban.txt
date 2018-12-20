@@ -1,0 +1,23 @@
+ Jquery 
+
+1.Asp d?ng thu vi?n
+  Cu pháp:
+$(function(){
+//l?nh jquery
+})
+
+jquery=>$(selector<html>).action():Hành d?ng, phuong th?c
+
+3.Selector:Ð?i tu?ng HTML
+
+tác d?ng d?n id
+$("tên id").hide(s:giây);
+tác d?ng d?n calss
+$("tên class").hide(s:giây);
+tác d?ng d?n tag
+$("tên tag").hide(s:giây);
+tsc d?ng d?n #
+$.("tên #").hide(s:giây);
+
+4.action
+hihe:?n; show:hi?n; click; mouseOver;..
